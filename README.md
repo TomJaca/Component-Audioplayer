@@ -29,11 +29,11 @@ Nuestro ~~text~~ codigo
 
 > Esto es un Codigo
 
-'''javascript
+```javascript
 console.log("mi codigo");
-'''
+```
 
-'''html
+```html
 <!-- bar-width:anchode barras , bar-gap:searacion entre barras -->
 <audio-player title="My audio sound"
     src="./zoe.mp3"
@@ -42,4 +42,4 @@ console.log("mi codigo");
     preload stop
 ></audio-player> 
 <script src="/js/audioplayer.js" type="module"></script> 
-'''
+```
